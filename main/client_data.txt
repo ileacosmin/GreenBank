@@ -1,0 +1,21 @@
+5
+1 5030220244489
+XM 003902
+Rus Ioan-Vasile
+Jud.MM Mun.Baia Mare Str.Cuza Voda nr.3 et.III ap.73
+-2 5021228245047
+MM 873549
+Chis Andrei-Cristian
+unce vrea ehl
+3 5030220245489
+MM 134623
+Rus Alfa omega
+JUD.Cluj strda somes ap 53
+4 5021207244033
+GZ 021536
+Ilea Cosmin-Ionut
+strcuza voda nr 3 efaccosmin
+5 5040220244889
+GZ 934176
+Popescu Ioan Mihai
+jud.GORJ mun targujiu.strada care vrea el
